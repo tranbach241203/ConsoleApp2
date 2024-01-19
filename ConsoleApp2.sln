@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{6C47A8C6-3C25-40F3-8229-6FC13AAE7B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btvn", "btvn\btvn.csproj", "{32FA3E3C-F3CE-42CF-A2AA-066EF1C03FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C47A8C6-3C25-40F3-8229-6FC13AAE7B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C47A8C6-3C25-40F3-8229-6FC13AAE7B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C47A8C6-3C25-40F3-8229-6FC13AAE7B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C47A8C6-3C25-40F3-8229-6FC13AAE7B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FA3E3C-F3CE-42CF-A2AA-066EF1C03FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FA3E3C-F3CE-42CF-A2AA-066EF1C03FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FA3E3C-F3CE-42CF-A2AA-066EF1C03FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FA3E3C-F3CE-42CF-A2AA-066EF1C03FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78063E29-BB14-4389-8163-9BE1C459BF76}
+	EndGlobalSection
+EndGlobal
